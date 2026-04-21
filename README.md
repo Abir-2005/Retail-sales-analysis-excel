@@ -26,7 +26,20 @@ This project demonstrates basic data analysis and visualization using Microsoft 
 
 ## 📷 Screenshots
 
-(Add your chart images here)
+### 📊 Sales by Category
+![Sales by Category](charts/sales_by_category.jpeg)
+
+### 🏙️ Profit by City
+![Profit by City](charts/profit_by_city.jpeg)
+
+### 📈 Profit vs Amount
+![Profit vs Amount](charts/profit_vs_amount.jpeg)
+
+### 💳 Payment Distribution
+![Payment Distribution](charts/payment_distribution.jpeg)
+
+### 📅 Sales Trend
+![Sales Trend](charts/sales_trend.jpeg)
 
 ## 🚀 Conclusion
 
